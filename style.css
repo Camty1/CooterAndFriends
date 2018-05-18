@@ -39,6 +39,7 @@ nav .header-phone img {
     margin-top: 30px;
     height: 40px;
     margin-bottom: auto;
+    border-radius: 3px;
 }
 
 .logo img {
